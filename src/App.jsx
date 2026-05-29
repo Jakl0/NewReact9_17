@@ -10,12 +10,13 @@ import InteractiveCard from './components/InteractiveCard'
 import CartCounter from './components/CartCounter'
 import ListManager from './components/ListManager'
 import ContactForm from './components/ContactForm'
+import Formularz from './components/Formularz'
 
 function App() {
 
  return ( 
     <>
-      <ContactForm/>
+      <Formularz/>
     </>
   )
 }
