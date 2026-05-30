@@ -11,12 +11,14 @@ import CartCounter from './components/CartCounter'
 import ListManager from './components/ListManager'
 import ContactForm from './components/ContactForm'
 import Formularz from './components/Formularz'
+import ListaZadan from './components/ListaZadan'
+import ListaStudentow from './components/ListaStudentow'
 
 function App() {
 
  return ( 
     <>
-      <Formularz/>
+      <ListaStudentow/>
     </>
   )
 }
